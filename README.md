@@ -1,8 +1,8 @@
 # IsoCapsNet
 
-![Graph-Bert Model Architecture](./result/screenshot/isocapnet_model.png)
+![Iso-CapsNet Model Architecture](./result/screenshot/isocapnet_model.png)
 
-## Graph-Bert: Only Attention is Needed for Learning Graph Representations 
+## Iso-CapsNet: Isomorphic Capsule Network for Brain Graph Representation Learning 
 
 Paper URL at arXiv: TBD
 
@@ -77,11 +77,11 @@ The inherited class are provided in ./code, which inherit from the base classes,
 
 ### b. method
 
-#### b-1 pre-computing methods
+#### b-1 Iso-CapsNet Model for Brain Graph Classification
 
 (1) Method_IsoCapsNet.py (the Iso-CapsNet training/testing for brain graph classification)
 
-#### b-2 graph-bert basics
+#### b-2 Iso-CapsNet basics
 
 (1) Method_IsoCapsNet_Modules.py (basic building components of Iso-CapsNet)
 
