@@ -1,6 +1,6 @@
 # IsoCapsNet
 
-![Graph-Bert Model Architecture](./result/screenshot/model.png)
+![Graph-Bert Model Architecture](./result/screenshot/isocapnet_model.png)
 
 ## Graph-Bert: Only Attention is Needed for Learning Graph Representations 
 
