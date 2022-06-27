@@ -1,4 +1,4 @@
-# Iso-CapsNet: Isomorphic Capsule Network for Brain Graph Representation Learning
+# Iso-CapsNet
 
 ![Iso-CapsNet Model Architecture](./result/screenshot/isocapnet_model.png)
 
