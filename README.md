@@ -4,7 +4,7 @@
 
 ## Iso-CapsNet: Isomorphic Capsule Network for Brain Graph Representation Learning 
 
-Paper URL at arXiv: TBD
+Paper URL at arXiv: https://arxiv.org/abs/2206.13465
 
 ### Two other papers are helpful for readers to follow the ideas in this paper and the code
 
@@ -20,7 +20,13 @@ IFM Lab GNNs: https://github.com/jwzhanggy/IFMLab_GNN
 ### References
 
 ```
-@article{TBD
+@article{zhang2022isocapsnet,
+      title={Iso-CapsNet: Isomorphic Capsule Network for Brain Graph Representation Learning}, 
+      author={Jiawei Zhang},
+      year={2022},
+      eprint={2206.13465},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
 
