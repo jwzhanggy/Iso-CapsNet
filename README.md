@@ -20,13 +20,12 @@ IFM Lab GNNs: https://github.com/jwzhanggy/IFMLab_GNN
 ### References
 
 ```
-@article{zhang2022isocapsnet,
-      title={Iso-CapsNet: Isomorphic Capsule Network for Brain Graph Representation Learning}, 
-      author={Jiawei Zhang},
-      year={2022},
-      eprint={2206.13465},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{Zhang2022IsoCapsNetIC,
+  title={Iso-CapsNet: Isomorphic Capsule Network for Brain Graph Representation Learning},
+  author={Jiawei Zhang},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2206.13465}
 }
 ```
 
